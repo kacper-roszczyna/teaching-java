@@ -1,4 +1,4 @@
-package pl.knab;
+package pl.knab.l1;
 
 public class Engineer extends Human {
 

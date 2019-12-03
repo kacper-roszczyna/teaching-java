@@ -1,4 +1,4 @@
-package pl.knab;
+package pl.knab.l1;
 
 import java.util.Arrays;
 import java.util.List;
